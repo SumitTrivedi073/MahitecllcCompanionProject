@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Companion App</string>
+    <string name="google_maps_key">AIzaSyD08iLIB0XcDiOB1fUSXAAY_HutaRPn2ME</string>
+    <string name="location_permission_required">Location Permission Required</string>
+    <string name="location_notification_desc">Location notification description</string>
+    <string name="Location_permission">Location access required</string>
+    <string name="Location_permission_txt">Please give Soultab access to this  device\'s location to get your current location</string>
+    <string name="setting">Setting</string>
+    <string name="cancel_text">cancel</string>
+    <string name="find_other_users">Find Other Users</string>
+</resources>
