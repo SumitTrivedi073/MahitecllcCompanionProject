@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Companion App</string>
+    <string name="app_name">User App</string>
     <string name="google_maps_key">AIzaSyD08iLIB0XcDiOB1fUSXAAY_HutaRPn2ME</string>
     <string name="location_permission_required">Location Permission Required</string>
     <string name="location_notification_desc">Location notification description</string>
